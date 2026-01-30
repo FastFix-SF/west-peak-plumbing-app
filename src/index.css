@@ -12,7 +12,7 @@ html {
   text-size-adjust: 100%;
 }
 
-/* Prevent zoom on input focus (Android) */
+/* Prevent zoom on input focus (Android) /
 input, select, textarea, button {
   font-size: 16px !important;
   touch-action: manipulation;
